@@ -1,0 +1,24 @@
+{
+  "name": "dhdata-viz",
+  "description": "Visualization libraries and examples",
+  "bugs": {
+    "url": "https://github.com/jgsmith/dhdata-viz/issues"
+  },
+  "version": "0.0.1",
+  "licenses": [{
+    "type": "BSD",
+    "url": "http://opensource.org/licenses/BSD-3-Clause"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgsmith/dhdata-viz.git"
+  },
+  "dependencies": {
+    "d3": "latest"
+  },
+  "devDependencies": {
+    "coffee-script": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-coffee": "latest"
+  }
+}
