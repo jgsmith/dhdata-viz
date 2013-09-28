@@ -1,0 +1,14 @@
+/*
+ * Common display properties for plots
+ */
+.axis {
+  color: #888;
+}
+.axis path, .axis line {
+  fill: none;
+  stroke: #ccc;
+  shape-rendering: crispEdges;
+}
+.dot {
+  stroke: #333;
+}
